@@ -4,4 +4,5 @@ ni hao a meng ya
 测试合并冲突
 修复版本合并
 version1
+version2
 
